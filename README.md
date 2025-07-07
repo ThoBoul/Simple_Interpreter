@@ -5,8 +5,9 @@ It was created for fun and as a learning exercise to prepare for Computer Scienc
 
 ## What is this?
 
-This is a command-line tool that can parse and evaluate arithmetic expressions with variables.  
-It supports standard mathematical operations (addition, subtraction, multiplication, division, exponentiation), assignment to variables, and parentheses for grouping.
+This is a command-line tool that can parse and evaluate arithmetic expressions with variables and binary operators.  
+It supports standard mathematical operations (addition `+`, subtraction `-`, multiplication `*`, division `/`, exponentiation `^`), assignment to variables, and parentheses for grouping.
+I have not yet implemented unary operators.
 
 ## What does this interpreter do?
 

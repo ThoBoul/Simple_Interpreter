@@ -24,6 +24,19 @@ This project was made to:
 - Get hands-on experience with data structures and algorithms used in interpreters
 - Have fun building a working calculator/interpreter from scratch
 
+## How to use
+
+1. **Compile the project** using your preferred Java build method (e.g. `javac *.java`).
+2. **Run the main program**.
+3. **Type an arithmetic expression** at the prompt, for example:
+   ```
+   a = 2 + 3 * (4 - 1)
+   b = a ^ 2
+   b / 2
+   ```
+4. **The interpreter** will output the result, and you can use previously assigned variables in new expressions.
+
+
 ---
 
 **Note:**  

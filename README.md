@@ -8,14 +8,14 @@ It was created for fun and as a learning exercise to prepare for Computer Scienc
 This is a command-line tool that can parse and evaluate arithmetic expressions with variables.  
 It supports standard mathematical operations (addition, subtraction, multiplication, division, exponentiation), assignment to variables, and parentheses for grouping.
 
-## What does it do?
+## What does this interpreter do?
 
 - **Parses** arithmetic expressions such as `a = 2 + 3 * (4 - 1)`  
 - **Evaluates** the result of expressions and assignments  
 - **Stores** variables and allows their use in later expressions  
 - **Handles** operator precedence and parentheses correctly
 
-## Why?
+## Why did I make this?
 
 This project was made to:
 - Practice and understand Java syntax and object-oriented programming
